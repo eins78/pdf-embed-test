@@ -1,0 +1,18 @@
+body {
+  font-family: monospace;
+  font-size: 1.4em;
+}
+
+.pdf-embed {
+  height: 500px;
+  background-color: #444;
+}
+
+.pdf-embed object {
+  display: block;
+}
+
+.pdf-embed .pdf-fallback {
+  color: white;
+  padding: 1em;
+}
