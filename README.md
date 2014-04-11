@@ -11,3 +11,4 @@ browser if no plugin can handle displaying the file.
 
 - Documentation of [pdfobject](http://pdfobject.com/) (library itself not used here)
 - [Adobe's PDF Open Parameters](http://www.adobe.com/content/dam/Adobe/en/devnet/acrobat/pdfs/pdf_open_parameters.pdf)
+- [Mozilla's `pdf.js`](https://github.com/mozilla/pdf.js)
